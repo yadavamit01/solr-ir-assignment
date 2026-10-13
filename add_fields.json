@@ -1,0 +1,9 @@
+{
+  "add-field": [
+    {"name":"title","type":"text_general","indexed":true,"stored":true},
+    {"name":"body","type":"text_general","indexed":true,"stored":true},
+    {"name":"category","type":"string","indexed":true,"stored":true},
+    {"name":"author","type":"string","indexed":true,"stored":true},
+    {"name":"tags","type":"string","indexed":true,"stored":true,"multiValued":true}
+  ]
+}

@@ -1,0 +1,637 @@
+[
+  {
+    "id": "doc001",
+    "title": "Python for Beginners",
+    "body": "Python is a popular programming language known for its simple, readable syntax. Many beginners choose Python as their first programming language because of its gentle learning curve.",
+    "category": "Programming",
+    "author": "A. Sharma",
+    "tags": [
+      "python",
+      "programming",
+      "beginner"
+    ]
+  },
+  {
+    "id": "doc002",
+    "title": "Python in Data Science",
+    "body": "Python is widely used in data science thanks to libraries like pandas and numpy. Data scientists rely on Python for cleaning, analyzing, and visualizing large datasets.",
+    "category": "Data Science",
+    "author": "R. Verma",
+    "tags": [
+      "python",
+      "data science",
+      "pandas"
+    ]
+  },
+  {
+    "id": "doc003",
+    "title": "Python Web Frameworks",
+    "body": "Django and Flask are two popular Python web frameworks used to build scalable web applications. Python web development has grown rapidly over the last decade.",
+    "category": "Web Development",
+    "author": "S. Iyer",
+    "tags": [
+      "python",
+      "web",
+      "django",
+      "flask"
+    ]
+  },
+  {
+    "id": "doc004",
+    "title": "Machine Learning with Python",
+    "body": "Python is the dominant language for machine learning, offering libraries such as scikit-learn and TensorFlow. Researchers prefer Python for rapid prototyping of machine learning models.",
+    "category": "Machine Learning",
+    "author": "N. Das",
+    "tags": [
+      "python",
+      "machine learning",
+      "tensorflow"
+    ]
+  },
+  {
+    "id": "doc005",
+    "title": "Python Automation Scripts",
+    "body": "Python scripts are commonly used to automate repetitive office tasks. Automation with Python can save hours of manual work every week.",
+    "category": "Programming",
+    "author": "K. Rao",
+    "tags": [
+      "python",
+      "automation",
+      "scripting"
+    ]
+  },
+  {
+    "id": "doc006",
+    "title": "Advanced Python Concepts",
+    "body": "Decorators, generators, and context managers are advanced Python concepts every developer should learn. Mastering Python at this level improves code quality significantly.",
+    "category": "Programming",
+    "author": "A. Sharma",
+    "tags": [
+      "python",
+      "programming",
+      "advanced"
+    ]
+  },
+  {
+    "id": "doc007",
+    "title": "Python vs Java Performance",
+    "body": "Python is generally slower than Java for CPU-bound tasks but faster to write and maintain. Choosing between Python and Java often depends on the project's performance needs.",
+    "category": "Programming",
+    "author": "M. Khan",
+    "tags": [
+      "python",
+      "java",
+      "performance"
+    ]
+  },
+  {
+    "id": "doc008",
+    "title": "Python Package Management",
+    "body": "Pip and virtual environments are essential tools for managing Python project dependencies. Good package management prevents version conflicts in Python projects.",
+    "category": "Programming",
+    "author": "S. Iyer",
+    "tags": [
+      "python",
+      "pip",
+      "virtualenv"
+    ]
+  },
+  {
+    "id": "doc009",
+    "title": "Python in Finance",
+    "body": "Financial analysts use Python for quantitative modeling and algorithmic trading strategies. Python's flexibility makes it a favorite in the fintech industry.",
+    "category": "Finance",
+    "author": "R. Verma",
+    "tags": [
+      "python",
+      "finance",
+      "trading"
+    ]
+  },
+  {
+    "id": "doc010",
+    "title": "History of Python",
+    "body": "Python was created by Guido van Rossum and first released in 1991. Since then, Python has grown into one of the most widely used programming languages in the world.",
+    "category": "Programming",
+    "author": "N. Das",
+    "tags": [
+      "python",
+      "history"
+    ]
+  },
+  {
+    "id": "doc011",
+    "title": "Java for Enterprise Applications",
+    "body": "Java remains a top choice for building large enterprise applications due to its stability. Many banks and corporations rely on Java for mission-critical software.",
+    "category": "Programming",
+    "author": "M. Khan",
+    "tags": [
+      "java",
+      "enterprise",
+      "programming"
+    ]
+  },
+  {
+    "id": "doc012",
+    "title": "Java Virtual Machine Explained",
+    "body": "The Java Virtual Machine allows Java programs to run on any platform without modification. This portability is one of Java's biggest advantages over other languages.",
+    "category": "Programming",
+    "author": "A. Sharma",
+    "tags": [
+      "java",
+      "jvm",
+      "programming"
+    ]
+  },
+  {
+    "id": "doc013",
+    "title": "Spring Framework for Java",
+    "body": "Spring is a powerful framework that simplifies Java web application development. Java developers use Spring Boot to quickly create production-ready applications.",
+    "category": "Web Development",
+    "author": "S. Iyer",
+    "tags": [
+      "java",
+      "spring",
+      "web"
+    ]
+  },
+  {
+    "id": "doc014",
+    "title": "Java in Android Development",
+    "body": "Java was historically the primary language for Android app development. Although Kotlin is now preferred, Java is still widely used in Android projects.",
+    "category": "Mobile Development",
+    "author": "K. Rao",
+    "tags": [
+      "java",
+      "android",
+      "mobile"
+    ]
+  },
+  {
+    "id": "doc015",
+    "title": "Java Concurrency Basics",
+    "body": "Java provides built-in support for multithreading and concurrent programming. Understanding Java concurrency is essential for building high-performance applications.",
+    "category": "Programming",
+    "author": "N. Das",
+    "tags": [
+      "java",
+      "concurrency",
+      "programming"
+    ]
+  },
+  {
+    "id": "doc016",
+    "title": "Java Certification Guide",
+    "body": "Earning a Java certification can boost a developer's career prospects. Java certifications validate a programmer's core and advanced Java skills.",
+    "category": "Career",
+    "author": "R. Verma",
+    "tags": [
+      "java",
+      "certification"
+    ]
+  },
+  {
+    "id": "doc017",
+    "title": "Java 21 New Features",
+    "body": "The latest Java release introduces virtual threads and pattern matching improvements. Java continues to evolve with each new version to stay competitive.",
+    "category": "Programming",
+    "author": "M. Khan",
+    "tags": [
+      "java",
+      "features",
+      "programming"
+    ]
+  },
+  {
+    "id": "doc018",
+    "title": "Introduction to Machine Learning",
+    "body": "Machine learning enables computers to learn patterns from data without explicit programming. Applications of machine learning range from recommendation systems to fraud detection.",
+    "category": "Machine Learning",
+    "author": "N. Das",
+    "tags": [
+      "machine learning",
+      "ai"
+    ]
+  },
+  {
+    "id": "doc019",
+    "title": "Deep Learning Fundamentals",
+    "body": "Deep learning uses neural networks with many layers to model complex patterns. Deep learning has driven major breakthroughs in image and speech recognition.",
+    "category": "Machine Learning",
+    "author": "R. Verma",
+    "tags": [
+      "deep learning",
+      "neural networks"
+    ]
+  },
+  {
+    "id": "doc020",
+    "title": "Machine Learning in Healthcare",
+    "body": "Machine learning models help doctors diagnose diseases earlier and more accurately. Hospitals are increasingly adopting machine learning tools for patient care.",
+    "category": "Healthcare",
+    "author": "A. Sharma",
+    "tags": [
+      "machine learning",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "doc021",
+    "title": "Neural Networks Explained",
+    "body": "Neural networks are inspired by the structure of the human brain. Training a neural network involves adjusting weights to minimize prediction error.",
+    "category": "Machine Learning",
+    "author": "S. Iyer",
+    "tags": [
+      "neural networks",
+      "deep learning"
+    ]
+  },
+  {
+    "id": "doc022",
+    "title": "Machine Learning for Fraud Detection",
+    "body": "Banks use machine learning algorithms to detect fraudulent transactions in real time. Machine learning models flag suspicious activity faster than manual review.",
+    "category": "Finance",
+    "author": "K. Rao",
+    "tags": [
+      "machine learning",
+      "fraud",
+      "finance"
+    ]
+  },
+  {
+    "id": "doc023",
+    "title": "Reinforcement Learning Overview",
+    "body": "Reinforcement learning trains agents to make decisions by rewarding good actions. This branch of machine learning powers game-playing AI and robotics.",
+    "category": "Machine Learning",
+    "author": "M. Khan",
+    "tags": [
+      "reinforcement learning",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "doc024",
+    "title": "Natural Language Processing Basics",
+    "body": "Natural language processing lets computers understand and generate human language. Machine learning techniques underpin most modern natural language processing systems.",
+    "category": "Machine Learning",
+    "author": "N. Das",
+    "tags": [
+      "nlp",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "doc025",
+    "title": "Machine Learning Model Evaluation",
+    "body": "Evaluating a machine learning model requires metrics like precision, recall, and F1 score. Proper evaluation prevents overfitting and ensures models generalize well.",
+    "category": "Machine Learning",
+    "author": "R. Verma",
+    "tags": [
+      "machine learning",
+      "evaluation"
+    ]
+  },
+  {
+    "id": "doc026",
+    "title": "Introduction to Cloud Computing",
+    "body": "Cloud computing allows organizations to rent computing resources instead of owning hardware. Major cloud providers include AWS, Microsoft Azure, and Google Cloud.",
+    "category": "Cloud",
+    "author": "S. Iyer",
+    "tags": [
+      "cloud",
+      "aws",
+      "azure"
+    ]
+  },
+  {
+    "id": "doc027",
+    "title": "Cloud Security Best Practices",
+    "body": "Securing cloud infrastructure requires strong access controls and encryption. Cloud security misconfigurations are a leading cause of data breaches.",
+    "category": "Cloud",
+    "author": "K. Rao",
+    "tags": [
+      "cloud",
+      "security"
+    ]
+  },
+  {
+    "id": "doc028",
+    "title": "Serverless Computing Explained",
+    "body": "Serverless computing lets developers run code without managing servers directly. Cloud providers automatically scale serverless functions based on demand.",
+    "category": "Cloud",
+    "author": "M. Khan",
+    "tags": [
+      "cloud",
+      "serverless"
+    ]
+  },
+  {
+    "id": "doc029",
+    "title": "Cloud Migration Strategies",
+    "body": "Migrating legacy applications to the cloud requires careful planning and testing. A phased cloud migration reduces risk for large organizations.",
+    "category": "Cloud",
+    "author": "N. Das",
+    "tags": [
+      "cloud",
+      "migration"
+    ]
+  },
+  {
+    "id": "doc030",
+    "title": "Multi-Cloud Architecture",
+    "body": "Multi-cloud strategies use services from more than one cloud provider to avoid lock-in. Managing a multi-cloud environment adds operational complexity.",
+    "category": "Cloud",
+    "author": "R. Verma",
+    "tags": [
+      "cloud",
+      "multi-cloud",
+      "architecture"
+    ]
+  },
+  {
+    "id": "doc031",
+    "title": "Cloud Cost Optimization",
+    "body": "Cloud costs can spiral out of control without proper monitoring and optimization. Right-sizing resources is a key strategy for reducing cloud spend.",
+    "category": "Cloud",
+    "author": "A. Sharma",
+    "tags": [
+      "cloud",
+      "cost"
+    ]
+  },
+  {
+    "id": "doc032",
+    "title": "Cloud Native Applications",
+    "body": "Cloud native applications are built using microservices and containers. Cloud native design improves scalability and resilience of modern software.",
+    "category": "Cloud",
+    "author": "S. Iyer",
+    "tags": [
+      "cloud",
+      "microservices",
+      "containers"
+    ]
+  },
+  {
+    "id": "doc033",
+    "title": "Modern JavaScript Frameworks",
+    "body": "React, Vue, and Angular are leading JavaScript frameworks for building web interfaces. JavaScript frameworks help developers build interactive web applications faster.",
+    "category": "Web Development",
+    "author": "K. Rao",
+    "tags": [
+      "javascript",
+      "web",
+      "react"
+    ]
+  },
+  {
+    "id": "doc034",
+    "title": "Responsive Web Design Principles",
+    "body": "Responsive web design ensures websites work well on phones, tablets, and desktops. Flexible grids and media queries are core techniques in responsive web design.",
+    "category": "Web Development",
+    "author": "M. Khan",
+    "tags": [
+      "web design",
+      "responsive"
+    ]
+  },
+  {
+    "id": "doc035",
+    "title": "Web Accessibility Guidelines",
+    "body": "Web accessibility ensures that websites can be used by people with disabilities. Following accessibility guidelines improves usability for all web users.",
+    "category": "Web Development",
+    "author": "N. Das",
+    "tags": [
+      "web",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "doc036",
+    "title": "Frontend Performance Optimization",
+    "body": "Optimizing frontend performance involves reducing bundle size and lazy loading assets. Fast-loading web pages improve user experience and search rankings.",
+    "category": "Web Development",
+    "author": "R. Verma",
+    "tags": [
+      "web",
+      "performance",
+      "frontend"
+    ]
+  },
+  {
+    "id": "doc037",
+    "title": "REST API Design Best Practices",
+    "body": "Well-designed REST APIs use clear resource naming and proper HTTP status codes. Good API design makes web services easier to integrate and maintain.",
+    "category": "Web Development",
+    "author": "A. Sharma",
+    "tags": [
+      "api",
+      "rest",
+      "web"
+    ]
+  },
+  {
+    "id": "doc038",
+    "title": "Progressive Web Apps",
+    "body": "Progressive web apps combine the best features of web and mobile applications. Users can install progressive web apps directly from the browser.",
+    "category": "Web Development",
+    "author": "S. Iyer",
+    "tags": [
+      "pwa",
+      "web",
+      "mobile"
+    ]
+  },
+  {
+    "id": "doc039",
+    "title": "Relational Database Design",
+    "body": "Relational databases organize data into tables with defined relationships. Normalization reduces redundancy in relational database design.",
+    "category": "Databases",
+    "author": "K. Rao",
+    "tags": [
+      "database",
+      "sql"
+    ]
+  },
+  {
+    "id": "doc040",
+    "title": "NoSQL Databases Overview",
+    "body": "NoSQL databases like MongoDB and Cassandra handle unstructured and semi-structured data. NoSQL databases are popular for applications requiring horizontal scalability.",
+    "category": "Databases",
+    "author": "M. Khan",
+    "tags": [
+      "database",
+      "nosql",
+      "mongodb"
+    ]
+  },
+  {
+    "id": "doc041",
+    "title": "Database Indexing Techniques",
+    "body": "Indexes speed up database queries by allowing faster lookups on specific columns. Choosing the right indexing strategy is critical for database performance.",
+    "category": "Databases",
+    "author": "N. Das",
+    "tags": [
+      "database",
+      "indexing"
+    ]
+  },
+  {
+    "id": "doc042",
+    "title": "Database Backup and Recovery",
+    "body": "Regular database backups protect organizations from data loss due to failures. A solid recovery plan minimizes downtime after a database incident.",
+    "category": "Databases",
+    "author": "R. Verma",
+    "tags": [
+      "database",
+      "backup"
+    ]
+  },
+  {
+    "id": "doc043",
+    "title": "Data Warehousing Concepts",
+    "body": "Data warehouses consolidate data from multiple sources for analytics and reporting. ETL pipelines feed data warehouses with cleaned and transformed data.",
+    "category": "Databases",
+    "author": "A. Sharma",
+    "tags": [
+      "database",
+      "data warehouse",
+      "etl"
+    ]
+  },
+  {
+    "id": "doc044",
+    "title": "Introduction to Cybersecurity",
+    "body": "Cybersecurity protects systems, networks, and data from digital attacks. Organizations invest heavily in cybersecurity to prevent costly breaches.",
+    "category": "Cybersecurity",
+    "author": "S. Iyer",
+    "tags": [
+      "cybersecurity",
+      "security"
+    ]
+  },
+  {
+    "id": "doc045",
+    "title": "Common Types of Cyber Attacks",
+    "body": "Phishing, ransomware, and denial-of-service attacks are common cybersecurity threats. Understanding attack types helps organizations build better defenses.",
+    "category": "Cybersecurity",
+    "author": "K. Rao",
+    "tags": [
+      "cybersecurity",
+      "attacks"
+    ]
+  },
+  {
+    "id": "doc046",
+    "title": "Network Security Fundamentals",
+    "body": "Firewalls and intrusion detection systems are core components of network security. Network security fundamentals form the backbone of enterprise cybersecurity.",
+    "category": "Cybersecurity",
+    "author": "M. Khan",
+    "tags": [
+      "cybersecurity",
+      "network"
+    ]
+  },
+  {
+    "id": "doc047",
+    "title": "Ethical Hacking Basics",
+    "body": "Ethical hackers test systems for vulnerabilities before malicious actors can exploit them. Ethical hacking is a growing career path within cybersecurity.",
+    "category": "Cybersecurity",
+    "author": "N. Das",
+    "tags": [
+      "cybersecurity",
+      "ethical hacking"
+    ]
+  },
+  {
+    "id": "doc048",
+    "title": "Cybersecurity Compliance Standards",
+    "body": "Standards like ISO 27001 help organizations maintain strong cybersecurity practices. Compliance audits ensure cybersecurity policies are actually followed.",
+    "category": "Cybersecurity",
+    "author": "R. Verma",
+    "tags": [
+      "cybersecurity",
+      "compliance"
+    ]
+  },
+  {
+    "id": "doc049",
+    "title": "Cross-Platform Mobile Development",
+    "body": "Flutter and React Native let developers build mobile apps for iOS and Android from one codebase. Cross-platform mobile development reduces engineering effort significantly.",
+    "category": "Mobile Development",
+    "author": "A. Sharma",
+    "tags": [
+      "mobile",
+      "flutter",
+      "react native"
+    ]
+  },
+  {
+    "id": "doc050",
+    "title": "iOS App Development with Swift",
+    "body": "Swift is Apple's modern language for building iOS applications. iOS developers use Swift for its safety features and performance.",
+    "category": "Mobile Development",
+    "author": "S. Iyer",
+    "tags": [
+      "mobile",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "id": "doc051",
+    "title": "Mobile App Security",
+    "body": "Mobile app security involves protecting user data stored and transmitted by apps. Poor mobile app security can expose sensitive personal information.",
+    "category": "Cybersecurity",
+    "author": "K. Rao",
+    "tags": [
+      "mobile",
+      "security"
+    ]
+  },
+  {
+    "id": "doc052",
+    "title": "Mobile UX Design Trends",
+    "body": "Modern mobile UX design favors simplicity and gesture-based navigation. Good mobile UX design keeps users engaged with an app longer.",
+    "category": "Mobile Development",
+    "author": "M. Khan",
+    "tags": [
+      "mobile",
+      "ux",
+      "design"
+    ]
+  },
+  {
+    "id": "doc053",
+    "title": "Blockchain Technology Basics",
+    "body": "Blockchain is a distributed ledger technology that records transactions across many computers. Blockchain underpins cryptocurrencies as well as many enterprise supply chain solutions.",
+    "category": "Blockchain",
+    "author": "N. Das",
+    "tags": [
+      "blockchain",
+      "distributed ledger"
+    ]
+  },
+  {
+    "id": "doc054",
+    "title": "DevOps Culture and Practices",
+    "body": "DevOps combines software development and IT operations to speed up delivery. Continuous integration and continuous deployment are core DevOps practices.",
+    "category": "DevOps",
+    "author": "R. Verma",
+    "tags": [
+      "devops",
+      "ci/cd"
+    ]
+  },
+  {
+    "id": "doc055",
+    "title": "Containerization with Docker",
+    "body": "Docker packages applications and their dependencies into portable containers. Containerization simplifies deployment across different cloud environments.",
+    "category": "DevOps",
+    "author": "A. Sharma",
+    "tags": [
+      "docker",
+      "containers",
+      "devops"
+    ]
+  }
+]
